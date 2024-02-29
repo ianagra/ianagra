@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-ianagra-red.svg)](https://www.linkedin.com/in/ianagra) ![](https://komarev.com/ghpvc/?username=ianagra&color=072448) [![](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-3118/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![author](https://img.shields.io/badge/author-ianagra-red.svg)](https://github.com/ianagra) ![](https://komarev.com/ghpvc/?username=ianagra&color=072448) [![](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-3118/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=Numpy&logoColor=white)](https://numpy.org) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=Jupyter&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=Latex&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-gray.svg?logo=linux&logoColor=black) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 
 <p align="center">
@@ -25,7 +25,4 @@ In addition, I've always been used to studying on my own, having taken online co
 * **Sentiment analysis on tweets**: soon
 
 ## 📫 How to reach me:
-
-* [LinkedIn](https://www.linkedin.com/in/ianagra)
-* [Medium](https://medium.com/@ianagra)
-* [Instagram](https://www.instagram.com/ian.agra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ianagra-blue.svg?logo=linkedin)](https://www.linkedin.com/in/ianagra) [![Medium](https://img.shields.io/badge/Medium-@ianagra-black.svg?logo=medium)](https://medium.com/@ianagra) [![Instagram](https://img.shields.io/badge/Instagram-ian.agra-pink.svg?logo=instagram)](https://www.instagram.com/ian.agra)
