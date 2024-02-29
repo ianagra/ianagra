@@ -20,9 +20,9 @@ In addition, I've always been used to studying on my own, having taken online co
 ## Master's course projects:
 
 ### NLP
-* **XML parsing**: soon
+* [**XML parsing**](https://github.com/ianagra/NLP-xml-parsing): A simple and tiny script comparing the XML parsers DOM and SAX.
 * **BM25 Information Retriever**: soon
 * **Sentiment analysis on tweets**: soon
 
 ## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ianagra-blue.svg?logo=linkedin)](https://www.linkedin.com/in/ianagra) [![Medium](https://img.shields.io/badge/Medium-@ianagra-black.svg?logo=medium)](https://medium.com/@ianagra) [![Instagram](https://img.shields.io/badge/Instagram-ian.agra-pink.svg?logo=instagram)](https://www.instagram.com/ian.agra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ianagra-blue.svg?logo=linkedin)](https://www.linkedin.com/in/ianagra) [![Medium](https://img.shields.io/badge/Medium-@ianagra-black.svg?logo=medium)](https://medium.com/@ianagra) [![Instagram](https://img.shields.io/badge/Instagram-@ian.agra-pink.svg?logo=instagram)](https://www.instagram.com/ian.agra)
