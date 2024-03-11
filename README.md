@@ -10,19 +10,35 @@
 
 As a 10-years experienced Navy Submarine Officer I combine analytical skills, ability to lead small teams in adverse conditions, and attention to details. 
 
-I have a Bachelor's degree in Naval Science with an emphasis on weapons systems from the Naval Academy, a postgraduate specialization in Artificial Intelligence and last year I started a Master's degree in Systems and Computer Engineering (research line in Artificial Intelligence) at Universidade Federal do Rio de Janeiro (UFRJ).
+I have a Bachelor's degree in Naval Science with an emphasis on weapons systems from the Naval Academy, a postgraduate specialization in Artificial Intelligence and last year I started a Master's degree in Systems and Computer Engineering (research line in Artificial Intelligence) at Universidade Federal do Rio de Janeiro (UFRJ). 
 
-In addition, I've always been used to studying on my own, having taken online courses in programming, Linux, statistics, ML, Data Science and Analytics, as well as digital marketing and copywriting.
+I have also studied on my own through several online courses in programming, Linux, statistics, ML, Data Science and Analytics, as well as digital marketing and copywriting. 
 
-**Background in:** Python, Machine Learning, Natural Language Processing, Submarine Operations, digital marketing and copywriting.
+**Background in:** Python, Machine Learning, Deep Learning, Natural Language Processing, LLMs, Submarine Operations, digital marketing and copywriting. 
 
 
 ## Master's course projects:
 
 ### NLP
-* [**XML parsing**](https://github.com/ianagra/NLP-xml-parsing): A simple and tiny script comparing the XML parsers DOM and SAX.
-* **BM25 Information Retriever**: soon
+* [**XML parsing**](https://github.com/ianagra/NLP-xml-parsing): A simple and tiny script comparing DOM and SAX XML parsers.
+* **Vector-space model IR system**: soon
 * **Sentiment analysis on tweets**: soon
+
+### KDD
+* **Exploratory Data Analysis**: soon
+* **Store sales time-series forecasting**: soon
+
+### Learning from Data
+* **ML models comparison**: soon
+
+### LLM Applications
+* **Virtual Sales Assistant**: soon
+
+### Machine Learning
+* SOON
+
+### Probability and Statistics for ML
+* SOON
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ianagra-blue.svg?logo=linkedin)](https://www.linkedin.com/in/ianagra) [![Medium](https://img.shields.io/badge/Medium-@ianagra-black.svg?logo=medium)](https://medium.com/@ianagra) [![Instagram](https://img.shields.io/badge/Instagram-@ian.agra-pink.svg?logo=instagram)](https://www.instagram.com/ian.agra)
