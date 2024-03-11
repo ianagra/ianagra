@@ -2,7 +2,7 @@
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=Numpy&logoColor=white)](https://numpy.org) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=Jupyter&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=Latex&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-gray.svg?logo=linux&logoColor=black) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 
 <p align="center">
-  <img src="banner.jpg" >
+  <img src="banner.png" >
 </p>
 
 # Ian Agra
